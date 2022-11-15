@@ -1,6 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 10397,true,רחיצה במבצע פרטי,Unknown,,רחיצה במבצע פרטי,,0.00,,false,,20.00,0.00,true,1,12711
-3521760,true,אפטרסול גל אלוורה,Unknown,,אפטרסול גל אלוורה,,0.00,,false,,25.60,0.00,true,1,15124
 5579974,true,מקציף חלב  שחור,Unknown,,מקציף חלב  שחור,,0.00,,false,,279.00,0.00,false,1,20959
 5737060,true,סביבון חנוכה מנגן,Unknown,,סביבון חנוכה מנגן,,0.00,,false,,12.90,0.00,false,1,15539
 10002078,false,מימון פלפל שחור טחון,Unknown,,מימון פלפל שחור טחון,,0.00,,false,1,16.10,0.00,true,1,21846
@@ -101,7 +100,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 12553011,false,מדליק פחם נוזלי,Unknown,,מדליק פחם נוזלי,,0.00,,false,1,15.00,0.00,false,1,22994
 12576607,false,פרמיר קברנה סוביניון,Unknown,,פרמיר קברנה סוביניון,,0.00,,false,1,31.40,0.00,true,1,20303
 12588242,false,מים כדורגל 500*6,Unknown,,מים כדורגל 500*6,,0.00,,false,1,11.90,0.00,true,1,22606
-12588570,false,מי עדן טבעיים 500,Unknown,,מי עדן טבעיים 500,,0.00,,false,1,7.40,0.00,true,1,22846
+12588570,false,ווטר בוקס 500 מל,Unknown,,ווטר בוקס 500 מל,,0.00,,false,1,7.40,0.00,true,1,22846
 12588617,false,מארז 2 גטורייד+בק,Unknown,,מארז 2 גטורייד+בק,,0.00,,false,1,49.90,0.00,true,1,22607
 12588907,false,איילנד גויאבה 300מל,Unknown,,איילנד גויאבה 300מל,,0.00,,false,1,9.50,0.00,true,1,23012
 12588914,false,איילנד מנגו 300מל,Unknown,,איילנד מנגו 300מל,,0.00,,false,1,9.50,0.00,true,1,23013
@@ -301,7 +300,6 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 16094022,false,אולטרסול ספריי שקוף,Unknown,,אולטרסול ספריי שקוף,,0.00,,false,1,37.90,0.00,true,1,20003
 16094039,false,אולסטרסול שקוף קידס,Unknown,,אולסטרסול שקוף קידס,,0.00,,false,1,37.90,0.00,true,1,20004
 16094091,false,ספריי שקוף קידס,Unknown,,ספריי שקוף קידס,,0.00,,false,1,37.90,0.00,true,1,15122
-16094817,true,ספריי שמן גזר קוליפה,Unknown,,ספריי שמן גזר קוליפה,,0.00,,false,,37.90,0.00,true,1,15123
 16102307,false,ערכת מנגל חד פעמי,Unknown,,ערכת מנגל חד פעמי,,0.00,,false,1,14.20,0.00,false,1,18771
 16102772,false,צלחות גדול 50 יח,Unknown,,צלחות גדול 50 יח,,0.00,,false,1,17.00,0.00,false,1,18757
 16230888,false,סוללה CR2032 3V,Unknown,,סוללה CR2032 3V,,0.00,,false,1,3.90,0.00,true,1,17613
@@ -1196,6 +1194,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 5900020025807,false,סיני מיניס 375 גרם,Unknown,,סיני מיניס 375 גרם,,0.00,,false,1,15.10,0.00,true,1,20846
 5900020026859,false,צריוס האני נאט 375ג,Unknown,,צריוס האני נאט 375ג,,0.00,,false,1,15.10,0.00,true,1,21223
 5900020039613,false,פיטנס שקדים ודבש,Unknown,,פיטנס שקדים ודבש,,0.00,,false,1,5.70,0.00,true,1,20999
+5900020041142,false,פיטנס קורנפלקס,Unknown,,פיטנס קורנפלקס,,0.00,,false,1,19.00,0.00,true,1,23015
 5900617035882,false,נוטרישיין טעם שוקולד,Unknown,,נוטרישיין טעם שוקולד,,0.00,,false,1,12.50,0.00,true,1,22296
 5900617035905,false,נוטרישיין קרמל מלוח,Unknown,,נוטרישיין קרמל מלוח,,0.00,,false,1,12.50,0.00,true,1,22297
 5900617035929,false,נוטרישיין וניל ת.יער,Unknown,,נוטרישיין וניל ת.יער,,0.00,,false,1,12.50,0.00,true,1,22305
@@ -3416,7 +3415,6 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7297588031523,false,שמשיה ארטוס,Unknown,,שמשיה ארטוס,,0.00,,false,1,27.00,0.00,false,1,20483
 7297588034074,false,שמשיה גדולה 180,Unknown,,שמשיה גדולה 180,,0.00,,false,1,27.00,0.00,false,1,20501
 7298074500615,false,בדיקת הריון בודד,Unknown,,בדיקת הריון בודד,,0.00,,false,1,28.40,0.00,true,1,17900
-7298074501995,false,בליסטיקס הגנה spf50,Unknown,,בליסטיקס הגנה spf50,,0.00,,false,1,11.00,0.00,true,1,17925
 7298171200210,true,כובע  פונפון LOL,Unknown,,כובע  פונפון LOL,,0.00,,false,,23.00,0.00,false,1,21066
 7298171200296,true,כובע פונפון ספיידרמן,Unknown,,כובע פונפון ספיידרמן,,0.00,,false,,23.00,0.00,false,1,21067
 7312040017683,false,וודקה אבסולוט 700מל,Unknown,,וודקה אבסולוט 700מל,,0.00,,false,1,90.30,0.00,true,1,11424

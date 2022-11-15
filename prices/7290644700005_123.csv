@@ -1,6 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 3364770,true,סביבון פומפה,Unknown,,סביבון פומפה,,0.00,,false,,19.90,0.00,false,1,17156
-3521760,true,אפטרסול גל אלוורה,Unknown,,אפטרסול גל אלוורה,,0.00,,false,,26.90,0.00,true,1,13814
 3694228,true,לוגי,Unknown,,לוגי,,0.00,,false,,49.90,0.00,false,1,17053
 5077043,true,קלפים-קוקו טאקי,Unknown,,קלפים-קוקו טאקי,,0.00,,false,,59.90,0.00,false,1,17051
 5579974,true,מקציף חלב  שחור,Unknown,,מקציף חלב  שחור,,0.00,,false,,299.00,0.00,false,1,18764
@@ -107,7 +106,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 12553011,false,מדליק פחם נוזלי,Unknown,,מדליק פחם נוזלי,,0.00,,false,1,15.00,0.00,false,1,20836
 12576607,false,פרמיר קברנה סוביניון,Unknown,,פרמיר קברנה סוביניון,,0.00,,false,1,33.00,0.00,true,1,18088
 12588242,false,מים כדורגל 500*6,Unknown,,מים כדורגל 500*6,,0.00,,false,1,11.90,0.00,true,1,20423
-12588570,false,מי עדן טבעיים 500,Unknown,,מי עדן טבעיים 500,,0.00,,false,1,7.90,0.00,true,1,20683
+12588570,false,ווטר בוקס 500 מל,Unknown,,ווטר בוקס 500 מל,,0.00,,false,1,7.90,0.00,true,1,20683
 12588617,false,מארז 2 גטורייד+בק,Unknown,,מארז 2 גטורייד+בק,,0.00,,false,1,49.90,0.00,true,1,20424
 12588907,false,איילנד גויאבה 300מל,Unknown,,איילנד גויאבה 300מל,,0.00,,false,1,9.90,0.00,true,1,20853
 12588914,false,איילנד מנגו 300מל,Unknown,,איילנד מנגו 300מל,,0.00,,false,1,9.90,0.00,true,1,20854
@@ -871,7 +870,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 4000417022004,false,ריטר חלב צ.אגוזים,Unknown,,ריטר חלב צ.אגוזים,,0.00,,false,1,6.90,0.00,true,1,3681
 4000417025005,false,ריטר מרציפן,Unknown,,ריטר מרציפן,,0.00,,false,1,6.90,0.00,true,1,3673
 4000417026002,false,ריטר פרלין,Unknown,,ריטר פרלין,,0.00,,false,1,6.90,0.00,true,1,3682
-4000417101211,false,אמיצלי 150 גרם,Unknown,,אמיצלי 150 גרם,,0.00,,false,1,10.90,0.00,true,1,19099
+4000417101211,false,אמיצלי 150 גרם,Unknown,,אמיצלי 150 גרם,,0.00,,false,1,14.90,0.00,true,1,19099
 4000417101310,false,אמיצלי קקאו ש.חלב,Unknown,,אמיצלי קקאו ש.חלב,,0.00,,false,1,10.90,0.00,true,1,20792
 4000417222008,false,ריטר חלב אגוזים,Unknown,,ריטר חלב אגוזים,,0.00,,false,1,6.90,0.00,true,1,20171
 4000539363108,false,לינדור סטיק 38ג,Unknown,,לינדור סטיק 38ג,,0.00,,false,1,6.90,0.00,true,1,20098
