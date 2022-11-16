@@ -1,6 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 3364978,true,סופר בליידס,Unknown,,סופר בליידס,,0.00,,false,,49.90,0.00,false,1,21062
-3521760,true,אפטרסול גל אלוורה,Unknown,,אפטרסול גל אלוורה,,0.00,,false,,26.90,0.00,true,1,18655
 3561032,true,בייגל רול דגנים,Unknown,,בייגל רול דגנים,,0.00,,false,,4.00,0.00,false,1,23660
 3694228,true,לוגי,Unknown,,לוגי,,0.00,,false,,49.90,0.00,false,1,22130
 3694440,true,פיקולינו,Unknown,,פיקולינו,,0.00,,false,,69.90,0.00,false,1,22132
@@ -108,7 +107,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 12553011,false,מדליק פחם נוזלי,Unknown,,מדליק פחם נוזלי,,0.00,,false,1,15.00,0.00,false,1,25668
 12576607,false,פרמיר קברנה סוביניון,Unknown,,פרמיר קברנה סוביניון,,0.00,,false,1,33.00,0.00,true,1,23092
 12588242,false,מים כדורגל 500*6,Unknown,,מים כדורגל 500*6,,0.00,,false,1,11.90,0.00,true,1,25260
-12588570,false,מי עדן טבעיים 500,Unknown,,מי עדן טבעיים 500,,0.00,,false,1,7.90,0.00,true,1,25520
+12588570,false,ווטר בוקס 500 מל,Unknown,,ווטר בוקס 500 מל,,0.00,,false,1,7.90,0.00,true,1,25520
 12588617,false,מארז 2 גטורייד+בק,Unknown,,מארז 2 גטורייד+בק,,0.00,,false,1,49.90,0.00,true,1,25261
 12588907,false,איילנד גויאבה 300מל,Unknown,,איילנד גויאבה 300מל,,0.00,,false,1,9.90,0.00,true,1,25686
 12588914,false,איילנד מנגו 300מל,Unknown,,איילנד מנגו 300מל,,0.00,,false,1,9.90,0.00,true,1,25687
@@ -305,7 +304,6 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 16094022,false,אולטרסול ספריי שקוף,Unknown,,אולטרסול ספריי שקוף,,0.00,,false,1,39.90,0.00,true,1,22845
 16094039,false,אולסטרסול שקוף קידס,Unknown,,אולסטרסול שקוף קידס,,0.00,,false,1,39.90,0.00,true,1,22846
 16094091,false,ספריי שקוף קידס,Unknown,,ספריי שקוף קידס,,0.00,,false,1,39.90,0.00,true,1,18653
-16094817,true,ספריי שמן גזר קוליפה,Unknown,,ספריי שמן גזר קוליפה,,0.00,,false,,39.90,0.00,true,1,18654
 16102307,false,ערכת מנגל חד פעמי,Unknown,,ערכת מנגל חד פעמי,,0.00,,false,1,15.00,0.00,false,1,21679
 16102772,false,צלחות גדול 50 יח,Unknown,,צלחות גדול 50 יח,,0.00,,false,1,17.90,0.00,false,1,21665
 16230888,false,סוללה CR2032 3V,Unknown,,סוללה CR2032 3V,,0.00,,false,1,3.90,0.00,true,1,20812
@@ -1014,7 +1012,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 4823077632396,false,וופל רושן קקאו חלב,Unknown,,וופל רושן קקאו חלב,,0.00,,false,1,5.00,0.00,true,1,24798
 4823077633690,false,בונבוניירה ו.רושן,Unknown,,בונבוניירה ו.רושן,,0.00,,false,1,19.90,0.00,true,1,25269
 4895060592307,false,פלורידה נטורל בקבוק,Unknown,,פלורידה נטורל בקבוק,,0.00,,false,1,9.90,0.00,true,1,6909
-4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,14.90,0.00,false,1,25675
+4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,16.90,0.00,false,1,25675
 5000159376655,false,סקיטלס פירות 38 גר,Unknown,,סקיטלס פירות 38 גר,,0.00,,false,1,4.00,0.00,true,1,15020
 5000159376792,false,סקיטלס חמוץ 38 גר,Unknown,,סקיטלס חמוץ 38 גר,,0.00,,false,1,4.00,0.00,true,1,15021
 5000159407236,false,מרס חטיף  51 גר,Unknown,,מרס חטיף  51 גר,,0.00,,false,1,6.50,0.00,true,1,9405
@@ -1189,6 +1187,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 5900020025807,false,סיני מיניס 375 גרם,Unknown,,סיני מיניס 375 גרם,,0.00,,false,1,15.90,0.00,true,1,23606
 5900020026859,false,צריוס האני נאט 375ג,Unknown,,צריוס האני נאט 375ג,,0.00,,false,1,15.90,0.00,true,1,23986
 5900020039613,false,פיטנס שקדים ודבש,Unknown,,פיטנס שקדים ודבש,,0.00,,false,1,6.00,0.00,true,1,23758
+5900020041142,false,פיטנס קורנפלקס,Unknown,,פיטנס קורנפלקס,,0.00,,false,1,20.00,0.00,true,1,25689
 5900617035882,false,נוטרישיין טעם שוקולד,Unknown,,נוטרישיין טעם שוקולד,,0.00,,false,1,12.90,0.00,true,1,24972
 5900617035905,false,נוטרישיין קרמל מלוח,Unknown,,נוטרישיין קרמל מלוח,,0.00,,false,1,12.90,0.00,true,1,24973
 5900617035929,false,נוטרישיין וניל ת.יער,Unknown,,נוטרישיין וניל ת.יער,,0.00,,false,1,12.90,0.00,true,1,24981
@@ -3352,7 +3351,6 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7297588031523,false,שמשיה ארטוס,Unknown,,שמשיה ארטוס,,0.00,,false,1,29.00,0.00,false,1,23267
 7297588034074,false,שמשיה גדולה 180,Unknown,,שמשיה גדולה 180,,0.00,,false,1,29.00,0.00,false,1,23278
 7298074500615,false,בדיקת הריון בודד,Unknown,,בדיקת הריון בודד,,0.00,,false,1,29.90,0.00,true,1,21200
-7298074501995,false,בליסטיקס הגנה spf50,Unknown,,בליסטיקס הגנה spf50,,0.00,,false,1,11.00,0.00,true,1,21212
 7298171200210,true,כובע  פונפון LOL,Unknown,,כובע  פונפון LOL,,0.00,,false,,24.90,0.00,false,1,23825
 7298171200296,true,כובע פונפון ספיידרמן,Unknown,,כובע פונפון ספיידרמן,,0.00,,false,,24.90,0.00,false,1,23826
 7312040017683,false,וודקה אבסולוט 700מל,Unknown,,וודקה אבסולוט 700מל,,0.00,,false,1,95.00,0.00,true,1,14996

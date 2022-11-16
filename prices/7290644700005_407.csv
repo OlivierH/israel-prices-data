@@ -1,5 +1,4 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-3521760,true,אפטרסול גל אלוורה,Unknown,,אפטרסול גל אלוורה,,0.00,,false,,26.90,0.00,true,1,14367
 5579974,true,מקציף חלב  שחור,Unknown,,מקציף חלב  שחור,,0.00,,false,,299.00,0.00,false,1,19396
 8000040,true,כובע רחב שוליים-שחור,Unknown,,כובע רחב שוליים-שחור,,0.00,,false,,29.90,0.00,false,1,20075
 8000041,true,כ.רחב שוליים-ח.בהיר,Unknown,,כ.רחב שוליים-ח.בהיר,,0.00,,false,,29.90,0.00,false,1,20076
@@ -98,7 +97,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 12553011,false,מדליק פחם נוזלי,Unknown,,מדליק פחם נוזלי,,0.00,,false,1,15.00,0.00,false,1,21482
 12576607,false,פרמיר קברנה סוביניון,Unknown,,פרמיר קברנה סוביניון,,0.00,,false,1,33.00,0.00,true,1,18718
 12588242,false,מים כדורגל 500*6,Unknown,,מים כדורגל 500*6,,0.00,,false,1,11.90,0.00,true,1,21047
-12588570,false,מי עדן טבעיים 500,Unknown,,מי עדן טבעיים 500,,0.00,,false,1,7.90,0.00,true,1,21328
+12588570,false,ווטר בוקס 500 מל,Unknown,,ווטר בוקס 500 מל,,0.00,,false,1,7.90,0.00,true,1,21328
 12588617,false,מארז 2 גטורייד+בק,Unknown,,מארז 2 גטורייד+בק,,0.00,,false,1,49.90,0.00,true,1,21048
 12588907,false,איילנד גויאבה 300מל,Unknown,,איילנד גויאבה 300מל,,0.00,,false,1,9.90,0.00,true,1,21500
 12588914,false,איילנד מנגו 300מל,Unknown,,איילנד מנגו 300מל,,0.00,,false,1,9.90,0.00,true,1,21501
@@ -854,7 +853,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 4000417022004,false,ריטר חלב צ.אגוזים,Unknown,,ריטר חלב צ.אגוזים,,0.00,,false,1,6.90,0.00,true,1,4503
 4000417025005,false,ריטר מרציפן,Unknown,,ריטר מרציפן,,0.00,,false,1,6.90,0.00,true,1,4495
 4000417026002,false,ריטר פרלין,Unknown,,ריטר פרלין,,0.00,,false,1,6.90,0.00,true,1,4504
-4000417101211,false,אמיצלי 150 גרם,Unknown,,אמיצלי 150 גרם,,0.00,,false,1,10.90,0.00,true,1,19717
+4000417101211,false,אמיצלי 150 גרם,Unknown,,אמיצלי 150 גרם,,0.00,,false,1,14.90,0.00,true,1,19717
 4000417101310,false,אמיצלי קקאו ש.חלב,Unknown,,אמיצלי קקאו ש.חלב,,0.00,,false,1,10.90,0.00,true,1,21437
 4000417222008,false,ריטר חלב אגוזים,Unknown,,ריטר חלב אגוזים,,0.00,,false,1,6.90,0.00,true,1,20796
 4000539363108,false,לינדור סטיק 38ג,Unknown,,לינדור סטיק 38ג,,0.00,,false,1,6.90,0.00,true,1,20724
@@ -995,7 +994,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 4823077632396,false,וופל רושן קקאו חלב,Unknown,,וופל רושן קקאו חלב,,0.00,,false,1,5.00,0.00,true,1,20571
 4823077633690,false,בונבוניירה ו.רושן,Unknown,,בונבוניירה ו.רושן,,0.00,,false,1,19.90,0.00,true,1,21056
 4895060592307,false,פלורידה נטורל בקבוק,Unknown,,פלורידה נטורל בקבוק,,0.00,,false,1,9.90,0.00,true,1,4274
-4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,14.90,0.00,false,1,21489
+4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,16.90,0.00,false,1,21489
 5000159376655,false,סקיטלס פירות 38 גר,Unknown,,סקיטלס פירות 38 גר,,0.00,,false,1,4.00,0.00,true,1,10993
 5000159376792,false,סקיטלס חמוץ 38 גר,Unknown,,סקיטלס חמוץ 38 גר,,0.00,,false,1,4.00,0.00,true,1,10994
 5000159407236,false,מרס חטיף  51 גר,Unknown,,מרס חטיף  51 גר,,0.00,,false,1,6.50,0.00,true,1,6297
