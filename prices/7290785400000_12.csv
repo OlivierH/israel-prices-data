@@ -1,5 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-2,true,עגבניות,ביכורי שדה דרום 2002,,עגבניות,קילוגרמים,1.00,"ק""ג",true,,6.50,6.5000,true,1,24468
+2,true,עגבניות,ביכורי שדה דרום 2002,,עגבניות,קילוגרמים,1.00,"ק""ג",true,,7.50,7.5000,true,1,24468
 3,true,עגבניות שרי,ביכורי שדה דרום 2002,,עגבניות שרי,קילוגרמים,1.00,"ק""ג",true,,18.90,18.9000,true,1,25139
 4,true,מלפפון,ביכורי שדה דרום 2002,,מלפפון,קילוגרמים,1.00,"ק""ג",true,,6.90,6.9000,true,1,26411
 6,true,גזר ארוז,ביכורי שדה דרום 2002,,גזר ארוז,קילוגרמים,1.00,"ק""ג",true,,3.90,3.9000,true,1,25891
