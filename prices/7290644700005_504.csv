@@ -1,5 +1,4 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-3521760,true,אפטרסול גל אלוורה,Unknown,,אפטרסול גל אלוורה,,0.00,,false,,26.90,0.00,true,1,18395
 5077043,true,קלפים-קוקו טאקי,Unknown,,קלפים-קוקו טאקי,,0.00,,false,,59.90,0.00,false,1,21646
 5579974,true,מקציף חלב  שחור,Unknown,,מקציף חלב  שחור,,0.00,,false,,299.00,0.00,false,1,23342
 8000061,true,כובע מצחיה-לבן,Unknown,,כובע מצחיה-לבן,,0.00,,false,,24.90,0.00,false,1,24024
@@ -100,7 +99,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 12553011,false,מדליק פחם נוזלי,Unknown,,מדליק פחם נוזלי,,0.00,,false,1,15.00,0.00,false,1,25366
 12576607,false,פרמיר קברנה סוביניון,Unknown,,פרמיר קברנה סוביניון,,0.00,,false,1,33.00,0.00,true,1,22663
 12588242,false,מים כדורגל 500*6,Unknown,,מים כדורגל 500*6,,0.00,,false,1,11.90,0.00,true,1,24955
-12588570,false,מי עדן טבעיים 500,Unknown,,מי עדן טבעיים 500,,0.00,,false,1,7.90,0.00,true,1,25214
+12588570,false,ווטר בוקס 500 מל,Unknown,,ווטר בוקס 500 מל,,0.00,,false,1,7.90,0.00,true,1,25214
 12588617,false,מארז 2 גטורייד+בק,Unknown,,מארז 2 גטורייד+בק,,0.00,,false,1,49.90,0.00,true,1,24956
 12588907,false,איילנד גויאבה 300מל,Unknown,,איילנד גויאבה 300מל,,0.00,,false,1,9.90,0.00,true,1,25384
 12588914,false,איילנד מנגו 300מל,Unknown,,איילנד מנגו 300מל,,0.00,,false,1,9.90,0.00,true,1,25385
@@ -297,7 +296,6 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 16094022,false,אולטרסול ספריי שקוף,Unknown,,אולטרסול ספריי שקוף,,0.00,,false,1,39.90,0.00,true,1,22344
 16094039,false,אולסטרסול שקוף קידס,Unknown,,אולסטרסול שקוף קידס,,0.00,,false,1,39.90,0.00,true,1,22345
 16094091,false,ספריי שקוף קידס,Unknown,,ספריי שקוף קידס,,0.00,,false,1,39.90,0.00,true,1,18393
-16094817,true,ספריי שמן גזר קוליפה,Unknown,,ספריי שמן גזר קוליפה,,0.00,,false,,39.90,0.00,true,1,18394
 16102307,false,ערכת מנגל חד פעמי,Unknown,,ערכת מנגל חד פעמי,,0.00,,false,1,15.00,0.00,false,1,21222
 16102772,false,צלחות גדול 50 יח,Unknown,,צלחות גדול 50 יח,,0.00,,false,1,17.90,0.00,false,1,21208
 16230888,false,סוללה CR2032 3V,Unknown,,סוללה CR2032 3V,,0.00,,false,1,3.90,0.00,true,1,20398
@@ -1003,7 +1001,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 4823077632396,false,וופל רושן קקאו חלב,Unknown,,וופל רושן קקאו חלב,,0.00,,false,1,5.00,0.00,true,1,24478
 4823077633690,false,בונבוניירה ו.רושן,Unknown,,בונבוניירה ו.רושן,,0.00,,false,1,19.90,0.00,true,1,24964
 4895060592307,false,פלורידה נטורל בקבוק,Unknown,,פלורידה נטורל בקבוק,,0.00,,false,1,9.90,0.00,true,1,7405
-4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,14.90,0.00,false,1,25373
+4895151823518,false,מצת ZENGAS,Unknown,,מצת ZENGAS,,0.00,,false,1,16.90,0.00,false,1,25373
 5000159376655,false,סקיטלס פירות 38 גר,Unknown,,סקיטלס פירות 38 גר,,0.00,,false,1,4.00,0.00,true,1,15120
 5000159376792,false,סקיטלס חמוץ 38 גר,Unknown,,סקיטלס חמוץ 38 גר,,0.00,,false,1,4.00,0.00,true,1,15121
 5000159407236,false,מרס חטיף  51 גר,Unknown,,מרס חטיף  51 גר,,0.00,,false,1,6.50,0.00,true,1,9904
