@@ -50,7 +50,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 16081008,false,אוהל פתיחה ל4 אנשים,Unknown,,אוהל פתיחה ל4 אנשים,,0.00,,false,1,199.00,0.00,false,1,9183
 16081206,false,ערסל זוגי,Unknown,,ערסל זוגי,,0.00,,false,1,99.00,0.00,true,1,10410
 16081213,false,ערסל ישיבה,Unknown,,ערסל ישיבה,,0.00,,false,1,99.00,0.00,true,1,10411
-16081237,false,גזיבו  3*3,Unknown,,גזיבו  3*3,,0.00,,false,1,299.00,0.00,true,1,9656
+16081237,false,גזיבו 3*3,Unknown,,גזיבו 3*3,,0.00,,false,1,299.00,0.00,true,1,9656
 16081244,false,סט 3 כלים לגריל נרוס,Unknown,,סט 3 כלים לגריל נרוס,,0.00,,false,1,39.00,0.00,true,1,9327
 16081619,false,אוזניית בלוטות שחור,Unknown,,אוזניית בלוטות שחור,,0.00,,false,1,99.90,0.00,false,1,9406
 16081626,false,אוזניית בלוטות לבן,Unknown,,אוזניית בלוטות לבן,,0.00,,false,1,99.90,0.00,false,1,9360
@@ -93,7 +93,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 656874247340,false,סיגריה 5000 שאיפות,Unknown,,סיגריה 5000 שאיפות,,0.00,,false,1,99.90,0.00,false,1,11460
 666306166071,false,אמריקן גיר 80/90,Unknown,,אמריקן גיר 80/90,,0.00,,false,1,55.00,0.00,true,1,1535
 666306440157,false,שמנים T3,Unknown,,שמנים T3,,0.00,,false,1,20.00,0.00,true,1,1450
-666306572414,false,אמריקן  40W15 -,Unknown,,אמריקן  40W15 -,,0.00,,false,1,35.00,0.00,true,1,1525
+666306572414,false,אמריקן 40W15 -,Unknown,,אמריקן 40W15 -,,0.00,,false,1,35.00,0.00,true,1,1525
 666306991413,false,אמריקן דקסרון 3,Unknown,,אמריקן דקסרון 3,,0.00,,false,1,28.00,0.00,true,1,1532
 666306993554,false,אמריקן 20/50 -,Unknown,,אמריקן 20/50 -,,0.00,,false,1,35.00,0.00,true,1,1526
 666306995749,false,אמריקן פויאר 40W10,Unknown,,אמריקן פויאר 40W10,,0.00,,false,1,50.00,0.00,true,1,1523
@@ -124,7 +124,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 5000394140851,false,דורסל רביעיות AAפלוס,Unknown,,דורסל רביעיות AAפלוס,,0.00,,false,1,9.90,0.00,false,1,11350
 5000394141117,false,דורסל רביעיות AAA פ,Unknown,,דורסל רביעיות AAA פ,,0.00,,false,1,9.90,0.00,false,1,11351
 5000394141209,false,דורסל שישיות AAA +,Unknown,,דורסל שישיות AAA +,,0.00,,false,1,22.00,0.00,false,1,11012
-5010321004484,false,GTX מגנטק 10W/40  י,Unknown,,GTX מגנטק 10W/40  י,,0.00,,false,1,258.00,0.00,true,1,16
+5010321004484,false,GTX מגנטק 10W/40 י,Unknown,,GTX מגנטק 10W/40 י,,0.00,,false,1,258.00,0.00,true,1,16
 5053744535265,false,ש.משקפות מבוגרים,Unknown,,ש.משקפות מבוגרים,,0.00,,false,1,99.00,0.00,false,1,10862
 5060902991818,false,ס.א אייס נענע,Unknown,,ס.א אייס נענע,,0.00,,false,1,99.90,0.00,false,1,11550
 5060902991870,false,ס.א. אייס אוכמניות,Unknown,,ס.א. אייס אוכמניות,,0.00,,false,1,99.90,0.00,false,1,11554
@@ -143,7 +143,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 5997270730315,false,ש.עצי ריח דובדבן,Unknown,,ש.עצי ריח דובדבן,,0.00,,false,1,10.00,0.00,false,1,10190
 5997270730322,false,ש.עצי ריח מסטיק,Unknown,,ש.עצי ריח מסטיק,,0.00,,false,1,10.00,0.00,false,1,10191
 5997270730339,false,ש.עצי ריח יהלום שחור,Unknown,,ש.עצי ריח יהלום שחור,,0.00,,false,1,10.00,0.00,false,1,10192
-5997270780044,false,ש.עצי ריח  וניל,Unknown,,ש.עצי ריח  וניל,,0.00,,false,1,10.00,0.00,false,1,10193
+5997270780044,false,ש.עצי ריח וניל,Unknown,,ש.עצי ריח וניל,,0.00,,false,1,10.00,0.00,false,1,10193
 5997270780051,false,ש.עצי ריח רכב חדש,Unknown,,ש.עצי ריח רכב חדש,,0.00,,false,1,10.00,0.00,false,1,10194
 5997270780068,false,ש.עצי ריח אריג צחור,Unknown,,ש.עצי ריח אריג צחור,,0.00,,false,1,10.00,0.00,false,1,10195
 5997270780075,false,ש.עצי ריח קוקוס,Unknown,,ש.עצי ריח קוקוס,,0.00,,false,1,10.00,0.00,false,1,10196
@@ -159,7 +159,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 6974129603418,false,Buzz בזוקה,Unknown,,Buzz בזוקה,,0.00,,false,1,89.90,0.00,false,1,11279
 6974129603432,false,Buzz פינה קולדה,Unknown,,Buzz פינה קולדה,,0.00,,false,1,89.90,0.00,false,1,11291
 6974129603449,false,buzz תות,Unknown,,buzz תות,,0.00,,false,1,89.90,0.00,false,1,11281
-6974129603456,false,Buzz  מנגו,Unknown,,Buzz  מנגו,,0.00,,false,1,89.90,0.00,false,1,11282
+6974129603456,false,Buzz מנגו,Unknown,,Buzz מנגו,,0.00,,false,1,89.90,0.00,false,1,11282
 6974129603487,false,Buzz סוכריה,Unknown,,Buzz סוכריה,,0.00,,false,1,89.90,0.00,false,1,11283
 6974129603494,false,Buzz אננס,Unknown,,Buzz אננס,,0.00,,false,1,89.90,0.00,false,1,11284
 6974678291944,false,Qweet ענבים 2500,Unknown,,Qweet ענבים 2500,,0.00,,false,1,59.90,0.00,false,1,11474
@@ -208,7 +208,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290003650248,false,פז 2TS מיקס 1ל 17,Unknown,,פז 2TS מיקס 1ל 17,,0.00,,false,1,80.30,0.00,true,1,19
 7290003650293,false,פזבו TM אריזת 1 ליטר,Unknown,,פזבו TM אריזת 1 ליטר,,0.00,,false,1,80.70,0.00,true,1,390
 7290003650309,false,10 4ליטרW פז הידראול,Unknown,,10 4ליטרW פז הידראול,,0.00,,false,1,121.00,0.00,true,1,259
-7290003650347,false,פזכול 6  4 ליטר,Unknown,,פזכול 6  4 ליטר,,0.00,,false,1,148.00,0.00,true,1,1414
+7290003650347,false,פזכול 6 4 ליטר,Unknown,,פזכול 6 4 ליטר,,0.00,,false,1,148.00,0.00,true,1,1414
 7290003650385,false,פזלון דלתון 4 ל,Unknown,,פזלון דלתון 4 ל,,0.00,,false,1,20.00,0.00,false,1,1415
 7290003650576,false,פז סופר מרין 1 ל,Unknown,,פז סופר מרין 1 ל,,0.00,,false,1,134.00,0.00,true,1,524
 7290003650606,false,פז דקסטרון 3 4 ליטר,Unknown,,פז דקסטרון 3 4 ליטר,,0.00,,false,1,198.00,0.00,true,1,534
@@ -244,7 +244,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290003656219,false,תוסף דיזל פז D-77 30,Unknown,,תוסף דיזל פז D-77 30,,0.00,,false,1,59.70,0.00,true,1,1498
 7290003656264,false,GTX מגנטק 4 ליטר,Unknown,,GTX מגנטק 4 ליטר,,0.00,,false,1,248.00,0.00,true,1,334
 7290003656400,false,פז מקסי-טק 10W/40 ל5,Unknown,,פז מקסי-טק 10W/40 ל5,,0.00,,false,1,152.30,0.00,true,1,1270
-7290003656424,false,סופר דיזל 15W/40   ל,Unknown,,סופר דיזל 15W/40   ל,,0.00,,false,1,147.00,0.00,true,1,1549
+7290003656424,false,סופר דיזל 15W/40 ל,Unknown,,סופר דיזל 15W/40 ל,,0.00,,false,1,147.00,0.00,true,1,1549
 7290003656578,false,פז סופר 15W/40 HD,Unknown,,פז סופר 15W/40 HD,,0.00,,false,1,149.00,0.00,true,1,1439
 7290003656646,false,פז זז ספריי 12יח,Unknown,,פז זז ספריי 12יח,,0.00,,false,1,29.00,0.00,true,1,10529
 7290003656738,false,סקאיפז ספרי 12יח,Unknown,,סקאיפז ספרי 12יח,,0.00,,false,1,29.00,0.00,true,1,1364
@@ -338,20 +338,20 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110472474,false,מתאם קיר TYPE C,Unknown,,מתאם קיר TYPE C,,0.00,,false,1,54.90,0.00,false,1,9739
 7290110472511,false,מזרן מתנפח מתקפל,Unknown,,מזרן מתנפח מתקפל,,0.00,,false,1,49.90,0.00,false,1,9560
 7290110472610,false,מנורה לאוהל נטענת,Unknown,,מנורה לאוהל נטענת,,0.00,,false,1,20.00,0.00,true,1,10412
-7290110472856,false,מטען רכב  Duet,Unknown,,מטען רכב  Duet,,0.00,,false,1,54.90,0.00,false,1,9740
+7290110472856,false,מטען רכב Duet,Unknown,,מטען רכב Duet,,0.00,,false,1,54.90,0.00,false,1,9740
 7290110473068,false,אוהל חוף נפתח ברגע,Unknown,,אוהל חוף נפתח ברגע,,0.00,,false,1,199.00,0.00,true,1,10413
 7290110473112,false,מנגל פח רשת 40*26,Unknown,,מנגל פח רשת 40*26,,0.00,,false,1,39.00,0.00,false,1,10181
 7290110473235,false,רמקול EXTREMe כחול,Unknown,,רמקול EXTREMe כחול,,0.00,,false,1,104.90,0.00,false,1,9769
 7290110473426,false,אוזניות JUST ורוד,Unknown,,אוזניות JUST ורוד,,0.00,,false,1,54.90,0.00,false,1,9745
 7290110473433,false,אוזניות JUST אפור,Unknown,,אוזניות JUST אפור,,0.00,,false,1,54.90,0.00,false,1,9746
-7290110473440,false,אוזניות JUST  זהב,Unknown,,אוזניות JUST  זהב,,0.00,,false,1,54.90,0.00,false,1,9747
+7290110473440,false,אוזניות JUST זהב,Unknown,,אוזניות JUST זהב,,0.00,,false,1,54.90,0.00,false,1,9747
 7290110473501,false,ז.טלסקופית לרכב שחור,Unknown,,ז.טלסקופית לרכב שחור,,0.00,,false,1,54.90,0.00,false,1,9749
 7290110473587,false,SIMPLY GRIP,Unknown,,SIMPLY GRIP,,0.00,,false,1,44.90,0.00,false,1,9751
 7290110473594,false,ROCKET GRIP שחור,Unknown,,ROCKET GRIP שחור,,0.00,,false,1,49.90,0.00,false,1,9752
 7290110473754,false,ערכת קפה ללא בלון גז,Unknown,,ערכת קפה ללא בלון גז,,0.00,,false,1,89.00,0.00,false,1,9659
 7290110473808,false,קלקר מים לטיולים,Unknown,,קלקר מים לטיולים,,0.00,,false,1,29.90,0.00,false,1,10133
 7290110473884,false,אוזניות TWS,Unknown,,אוזניות TWS,,0.00,,false,1,99.00,0.00,false,1,9822
-7290110474041,false,רפידו  + כבל טעינה,Unknown,,רפידו  + כבל טעינה,,0.00,,false,1,79.90,0.00,false,1,9858
+7290110474041,false,רפידו + כבל טעינה,Unknown,,רפידו + כבל טעינה,,0.00,,false,1,79.90,0.00,false,1,9858
 7290110474256,false,כבל aux iron man,Unknown,,כבל aux iron man,,0.00,,false,1,49.90,0.00,false,1,9859
 7290110474409,false,סוללת חי להתנעת רכב,Unknown,,סוללת חי להתנעת רכב,,0.00,,false,1,179.00,0.00,false,1,9987
 7290110474416,false,ערכת בישול לשטחCRUZO,Unknown,,ערכת בישול לשטחCRUZO,,0.00,,false,1,199.00,0.00,false,1,10090
@@ -412,7 +412,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110476526,false,קומקום לשטח camp&go,Unknown,,קומקום לשטח camp&go,,0.00,,false,1,99.00,0.00,false,1,11148
 7290110476557,false,תיק עם שלוקר 3 ל,Unknown,,תיק עם שלוקר 3 ל,,0.00,,false,1,79.00,0.00,false,1,10770
 7290110476571,false,מטען רכב QC3.0 +PD,Unknown,,מטען רכב QC3.0 +PD,,0.00,,false,1,49.90,0.00,false,1,11110
-7290110476588,false,כבל  CHARGE אייפון,Unknown,,כבל  CHARGE אייפון,,0.00,,false,1,29.00,0.00,false,1,10869
+7290110476588,false,כבל CHARGE אייפון,Unknown,,כבל CHARGE אייפון,,0.00,,false,1,29.00,0.00,false,1,10869
 7290110476595,false,כבל מיקרו usb,Unknown,,כבל מיקרו usb,,0.00,,false,1,29.00,0.00,false,1,10870
 7290110476601,false,כבל טייפ סי,Unknown,,כבל טייפ סי,,0.00,,false,1,29.00,0.00,false,1,10874
 7290110476618,false,כבל M.C סי טו סי,Unknown,,כבל M.C סי טו סי,,0.00,,false,1,29.00,0.00,false,1,10871
@@ -437,7 +437,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110477134,false,מטען רכב משפחתי,Unknown,,מטען רכב משפחתי,,0.00,,false,1,99.00,0.00,false,1,11023
 7290110477158,false,פנס פרוזקטור נטען,Unknown,,פנס פרוזקטור נטען,,0.00,,false,1,99.00,0.00,false,1,11025
 7290110477189,false,תאורת נטענת לקמפינג,Unknown,,תאורת נטענת לקמפינג,,0.00,,false,1,49.00,0.00,false,1,11228
-7290110477219,false,אוזניות TWS  ARTOS,Unknown,,אוזניות TWS  ARTOS,,0.00,,false,1,99.00,0.00,false,1,11149
+7290110477219,false,אוזניות TWS ARTOS,Unknown,,אוזניות TWS ARTOS,,0.00,,false,1,99.00,0.00,false,1,11149
 7290110477240,false,אוזניות חוטיות מדונה,Unknown,,אוזניות חוטיות מדונה,,0.00,,false,1,49.90,0.00,false,1,11121
 7290110477295,false,ש.אלומיניום מתקפל,Unknown,,ש.אלומיניום מתקפל,,0.00,,false,1,199.00,0.00,false,1,11229
 7290110477301,false,שולחן אלומניום מתקפל,Unknown,,שולחן אלומניום מתקפל,,0.00,,false,1,349.00,0.00,false,1,11230
@@ -455,7 +455,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110477608,false,ע.קפה וגזיה אלפינית,Unknown,,ע.קפה וגזיה אלפינית,,0.00,,false,1,99.00,0.00,false,1,11238
 7290110477615,false,שישה שאקלים,Unknown,,שישה שאקלים,,0.00,,false,1,29.00,0.00,false,1,11239
 7290110477622,false,אקדח עיסוי נטען,Unknown,,אקדח עיסוי נטען,,0.00,,false,1,99.00,0.00,false,1,11260
-7290110477639,false,מתאם AUDIO  TYPE C,Unknown,,מתאם AUDIO  TYPE C,,0.00,,false,1,59.00,0.00,false,1,11429
+7290110477639,false,מתאם AUDIO TYPE C,Unknown,,מתאם AUDIO TYPE C,,0.00,,false,1,59.00,0.00,false,1,11429
 7290110477653,false,אוזניות TWS אלומינ,Unknown,,אוזניות TWS אלומינ,,0.00,,false,1,129.00,0.00,false,1,11301
 7290110477660,false,עצי ריח מעוצבים,Unknown,,עצי ריח מעוצבים,,0.00,,false,1,5.90,0.00,false,1,11430
 7290110477677,false,כבל 2 מטר,Unknown,,כבל 2 מטר,,0.00,,false,1,29.90,0.00,false,1,11431
@@ -524,7 +524,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 8000070043381,false,פ.לוואצה פיאנו גוסטו,Unknown,,פ.לוואצה פיאנו גוסטו,,0.00,,false,1,69.00,0.00,false,1,11091
 8000070053465,false,לוואצה אורו חוזק 8,Unknown,,לוואצה אורו חוזק 8,,0.00,,false,1,19.90,0.00,true,1,11629
 8000070053472,false,לוואצה א.קלאסיקו 12,Unknown,,לוואצה א.קלאסיקו 12,,0.00,,false,1,19.90,0.00,true,1,11630
-8000070053502,false,לוואצה נטול קפאין  7,Unknown,,לוואצה נטול קפאין  7,,0.00,,false,1,19.90,0.00,true,1,11631
+8000070053502,false,לוואצה נטול קפאין 7,Unknown,,לוואצה נטול קפאין 7,,0.00,,false,1,19.90,0.00,true,1,11631
 8000070053526,false,לוואצה רוסה חוזק 10,Unknown,,לוואצה רוסה חוזק 10,,0.00,,false,1,19.90,0.00,true,1,11632
 8000070055254,false,לוואצה קרמה גוסטו 13,Unknown,,לוואצה קרמה גוסטו 13,,0.00,,false,1,19.90,0.00,true,1,11633
 8000070059832,false,לוואצה גוסטו ריקו 11,Unknown,,לוואצה גוסטו ריקו 11,,0.00,,false,1,19.90,0.00,true,1,11634
@@ -544,13 +544,13 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 8410202330126,false,פ.ריח אורגני רכב חדש,Unknown,,פ.ריח אורגני רכב חדש,,0.00,,false,1,15.00,0.00,true,1,9631
 8410202330140,false,פ.ריח אורגני עשןנמוג,Unknown,,פ.ריח אורגני עשןנמוג,,0.00,,false,1,15.00,0.00,true,1,9632
 8410202330263,false,פ.ריח אורגני מסטיק,Unknown,,פ.ריח אורגני מסטיק,,0.00,,false,1,15.00,0.00,true,1,9633
-8410202330317,false,פ.ריח אורגני  CANDY,Unknown,,פ.ריח אורגני  CANDY,,0.00,,false,1,15.00,0.00,true,1,9977
+8410202330317,false,פ.ריח אורגני CANDY,Unknown,,פ.ריח אורגני CANDY,,0.00,,false,1,15.00,0.00,true,1,9977
 8410202330454,false,פ.ריח אורגני קולבלאק,Unknown,,פ.ריח אורגני קולבלאק,,0.00,,false,1,15.00,0.00,true,1,9634
-8423371007614,false,תערובת  סאליסול,Unknown,,תערובת  סאליסול,,0.00,,false,1,9.90,0.00,true,1,11536
+8423371007614,false,תערובת סאליסול,Unknown,,תערובת סאליסול,,0.00,,false,1,9.90,0.00,true,1,11536
 8680976425469,false,כסא במאי,Unknown,,כסא במאי,,0.00,,false,1,59.00,0.00,false,1,10278
 8710103733805,false,מסנן אקווה קלין,Unknown,,מסנן אקווה קלין,,0.00,,false,1,99.00,0.00,false,1,10543
 8710103818687,false,מסנן אקווה קלין-חדש,Unknown,,מסנן אקווה קלין-חדש,,0.00,,false,1,99.00,0.00,false,1,10809
-8711500406071,false,נורה  בליסטר 12V,Unknown,,נורה  בליסטר 12V,,0.00,,false,1,35.00,0.00,true,1,10051
+8711500406071,false,נורה בליסטר 12V,Unknown,,נורה בליסטר 12V,,0.00,,false,1,35.00,0.00,true,1,10051
 8711500474803,false,נורה בליסטר 12V H4,Unknown,,נורה בליסטר 12V H4,,0.00,,false,1,25.00,0.00,true,1,10052
 8806092885967,false,סמארטפון A03 G128,Unknown,,סמארטפון A03 G128,,0.00,,false,1,669.00,0.00,false,1,11530
 9999910001209,false,קסטרול 20/50 גלון,Unknown,,קסטרול 20/50 גלון,,0.00,,false,1,125.00,0.00,true,1,1475
@@ -566,7 +566,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 9999910001223,false,פזגיר גלון,Unknown,,פזגיר גלון,,0.00,,false,1,142.50,0.00,true,1,1489
 9999910001224,false,ליטר TXT,Unknown,,ליטר TXT,,0.00,,false,1,80.00,0.00,true,1,1490
 9999910001225,false,ליטר PCC,Unknown,,ליטר PCC,,0.00,,false,1,39.00,0.00,true,1,1491
-9999910001226,false,פזמולר 10 DX  גלון,Unknown,,פזמולר 10 DX  גלון,,0.00,,false,1,84.00,0.00,true,1,1496
+9999910001226,false,פזמולר 10 DX גלון,Unknown,,פזמולר 10 DX גלון,,0.00,,false,1,84.00,0.00,true,1,1496
 9999910001229,false,פח שמן הידראולי,Unknown,,פח שמן הידראולי,,0.00,,false,1,341.00,0.00,true,1,1501
 9999910001233,false,פח שמן 30,Unknown,,פח שמן 30,,0.00,,false,1,405.00,0.00,true,1,1505
 9999910001234,false,פח שמן 40,Unknown,,פח שמן 40,,0.00,,false,1,405.00,0.00,true,1,1506
@@ -576,7 +576,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 9999910001238,false,פח טורבו מקס,Unknown,,פח טורבו מקס,,0.00,,false,1,472.00,0.00,true,1,1510
 9999910001239,false,פח הידראלי W,Unknown,,פח הידראלי W,,0.00,,false,1,266.00,0.00,true,1,1511
 9999910001240,false,פז מולר 10 פח,Unknown,,פז מולר 10 פח,,0.00,,false,1,316.00,0.00,true,1,1512
-9999910001242,false,פזטון  E68,Unknown,,פזטון  E68,,0.00,,false,1,250.00,0.00,true,1,1513
+9999910001242,false,פזטון E68,Unknown,,פזטון E68,,0.00,,false,1,250.00,0.00,true,1,1513
 9999910001255,false,מגיק מים ירוקים -,Unknown,,מגיק מים ירוקים -,,0.00,,false,1,25.00,0.00,true,1,1529
 9999910001257,false,קלין נוזל שמשות,Unknown,,קלין נוזל שמשות,,0.00,,false,1,19.90,0.00,true,1,1531
 9999910001265,false,גריז צהוב,Unknown,,גריז צהוב,,0.00,,false,1,37.00,0.00,true,1,1538
@@ -591,12 +591,12 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 9999910032102,false,פזמולר X 50,Unknown,,פזמולר X 50,,0.00,,false,1,531.00,0.00,true,1,674
 9999910032502,false,30 פח DX פזמולר,Unknown,,30 פח DX פזמולר,,0.00,,false,1,430.00,0.00,true,1,441
 9999910032602,false,40 פח DX פזמולר,Unknown,,40 פח DX פזמולר,,0.00,,false,1,431.00,0.00,true,1,675
-9999910037902,false,PAZREX HD 90  TIN,Unknown,,PAZREX HD 90  TIN,,0.00,,false,1,553.00,0.00,true,1,231
+9999910037902,false,PAZREX HD 90 TIN,Unknown,,PAZREX HD 90 TIN,,0.00,,false,1,553.00,0.00,true,1,231
 9999910038002,false,פזרקס 140 HD,Unknown,,פזרקס 140 HD,,0.00,,false,1,643.00,0.00,true,1,676
 9999910038420,false,פזבו SL,Unknown,,פזבו SL,,0.00,,false,1,45.00,0.00,true,1,1417
 9999910039802,false,פזכול 6 פח,Unknown,,פזכול 6 פח,,0.00,,false,1,433.00,0.00,true,1,886
 9999910042043,false,פזינקס SP קופסא 2.5,Unknown,,פזינקס SP קופסא 2.5,,0.00,,false,1,103.00,0.00,true,1,901
-9999910042048,false,PAZINAX  SP  2.5K,Unknown,,PAZINAX  SP  2.5K,,0.00,,false,1,111.00,0.00,true,1,232
+9999910042048,false,PAZINAX SP 2.5K,Unknown,,PAZINAX SP 2.5K,,0.00,,false,1,111.00,0.00,true,1,232
 9999910043402,false,אגרופז 15/30 פח,Unknown,,אגרופז 15/30 פח,,0.00,,false,1,489.00,0.00,true,1,233
 9999910048502,false,פזטורבין 32 M,Unknown,,פזטורבין 32 M,,0.00,,false,1,584.00,0.00,true,1,1445
 9999910051602,false,פזלוס T37 פח,Unknown,,פזלוס T37 פח,,0.00,,false,1,550.00,0.00,true,1,677
@@ -606,18 +606,18 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 9999910055402,false,פזעמל 150,Unknown,,פזעמל 150,,0.00,,false,1,523.00,0.00,true,1,902
 9999910055602,false,פז עמל 320,Unknown,,פז עמל 320,,0.00,,false,1,522.00,0.00,true,1,678
 9999910057702,false,22 פח R פזלוס,Unknown,,22 פח R פזלוס,,0.00,,false,1,479.00,0.00,true,1,315
-9999910099941,false,אריזה ריקה  שקית ניל,Unknown,,אריזה ריקה  שקית ניל,,0.00,,false,1,0.00,0.00,true,1,223
+9999910099941,false,אריזה ריקה שקית ניל,Unknown,,אריזה ריקה שקית ניל,,0.00,,false,1,0.00,0.00,true,1,223
 9999910100802,false,פזטרן פח,Unknown,,פזטרן פח,,0.00,,false,1,502.00,0.00,true,1,679
 9999910105402,false,10 פחW פז הידראוליק,Unknown,,10 פחW פז הידראוליק,,0.00,,false,1,348.00,0.00,true,1,234
 9999910107226,false,פזבר דלי,Unknown,,פזבר דלי,,0.00,,false,1,659.00,0.00,true,1,596
-9999910116702,false,פזלוס 46 T    פח,Unknown,,פזלוס 46 T    פח,,0.00,,false,1,550.00,0.00,true,1,260
+9999910116702,false,פזלוס 46 T פח,Unknown,,פזלוס 46 T פח,,0.00,,false,1,550.00,0.00,true,1,260
 9999910118002,false,פח TO-4 פזרקס,Unknown,,פח TO-4 פזרקס,,0.00,,false,1,686.00,0.00,true,1,680
 9999910121202,false,פזלוס 2 R,Unknown,,פזלוס 2 R,,0.00,,false,1,833.00,0.00,true,1,1444
 9999910126702,false,סופר דיזל 15/40 פח,Unknown,,סופר דיזל 15/40 פח,,0.00,,false,1,485.00,0.00,true,1,511
 9999910135420,false,פז דקסרון 3G,Unknown,,פז דקסרון 3G,,0.00,,false,1,31.00,0.00,true,1,1412
 9999910139602,false,פזמולר 40 פח,Unknown,,פזמולר 40 פח,,0.00,,false,1,355.00,0.00,true,1,870
 9999910148497,false,גלילי נייר פז,Unknown,,גלילי נייר פז,,0.00,,false,1,93.00,0.00,true,1,1551
-9999910178334,false,תוסף פז  D-77,Unknown,,תוסף פז  D-77,,0.00,,false,1,122.00,0.00,true,1,1441
+9999910178334,false,תוסף פז D-77,Unknown,,תוסף פז D-77,,0.00,,false,1,122.00,0.00,true,1,1441
 9999910408332,false,פזקלין 13 פח פל,Unknown,,פזקלין 13 פח פל,,0.00,,false,1,291.00,0.00,true,1,333
 9999910418702,false,פז בון פח,Unknown,,פז בון פח,,0.00,,false,1,0.00,0.00,true,1,1408
 9999910418715,false,פזבון,Unknown,,פזבון,,0.00,,false,1,43.00,0.00,true,1,1411
