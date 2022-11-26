@@ -1,7 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-10,true,הפרדה צלופן לשניצלים,,,תיבה 20+,יחידה,0.00,יחידה,false,,45.00,0.0000,true,1,7533
 119,true,גפרורים,,,גפרורים,יחידה,0.00,יחידה,false,,4.90,0.0000,true,1,16707
-1590,true,משורית סרט 1590 ממ,,,משורית סרט 1590 ממ,,1000.00,,false,,8.90,0.0089,true,1,89670
 8888,true,פיקדון זיכוי לקוח,,,פיקדון זיכוי לקוח,יחידה,0.00,יחידה,false,,0.30,0.0000,true,1,39511
 5711550,true,קרטון ריק,,,קרטון ריק,,0.00,,false,,3.00,0.0000,true,1,139715
 7290000039231,false,אווזית עגל טרי,,,אווזית עגל טרי,קילוגרמים,1.00,"ק""ג",true,,89.90,89.9000,true,1,2048
