@@ -1,5 +1,2 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-7290000039235,false,פילה מיניון עגל טרי,,,פילה מיניון עגל טרי,קילוגרמים,1.00,"ק""ג",true,,229.90,229.9000,true,1,3261
-7290000284316,false,קוקה קולה בקבוק 1.5,קוקה קולה ישראל,IL,קוקה קולה 1.5 ליטר,ליטרים,1.50,ליטר,false,,8.70,5.8000,true,1,8397
-7290002331162,false,נביעות מים מינרלים 1.5ל',נביעות,IL,נביעות 1.5 ליטר,ליטרים,1.50,ליטר,false,,3.90,2.6000,true,1,8446
 7290009153989,false,חלה מתוקה ברמן 500 ג,,,חלה מתוקה ברמן 500 ג,מטרים,500.00,מטר,false,,9.90,0.0198,true,1,50877
