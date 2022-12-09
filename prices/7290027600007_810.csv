@@ -1,6 +1,6 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 42400037316,false,דגני בוקר בטעם פירות354ג,.,IL,דגני בוקר פירות,גרמים,354.00,100 גרם,false,1,19.90,5.62,true,1,
-50702520139,false,עוגיות סנדוויץ וניל במילוי תות 300 גר',יעד ממתקים,IL,עוגיות סנדויץ,גרמים,300.00,100 גרם,false,0,4.90,1.63,true,1,
+50702520139,false,עוגיות סנדוויץ וניל במילוי תות 300 גר',,IL,עוגיות סנדויץ,גרמים,300.00,100 גרם,false,0,4.90,1.63,true,1,
 77028855202,false,"חרדל כשל""פ 260 גרם",,IL,חרדל,גרמים,260.00,100 גרם,false,1,19.90,7.65,true,1,
 608614343942,false,תחבושות בריאות כחול)יום(,,IL,תחבושות בריאות,יחידה,1.00,יחידה,false,1,19.90,19.90,true,1,
 710069107007,false,מקרונס שוקולד 283 גרם,,US,מקרונס שוקולד,גרמים,283.00,100 גרם,false,1,19.90,7.03,true,1,

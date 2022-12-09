@@ -1,6 +1,6 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 30173651,false,לוריאל - קונסילר אינפליבל 330,לוריאל,FR,קונסילר אינפליבל,מיליליטרים,11.00,"100 מ""ל",false,1,55.50,504.55,true,1,
-72917589,false,חטיף מקופלת עלית 25,"שטראוס גרופ בע""מ",IL,מקופלת חלב,גרמים,25.00,100 גרם,false,0,4.00,16.00,true,1,
+72917589,false,מקופלת חלב 25 גרם,"שטראוס גרופ בע""מ",IL,מקופלת חלב,גרמים,25.00,100 גרם,false,0,4.00,16.00,true,1,
 72994061,false,חטיף פסק זמן GOOD גלילית לבן 40 גרם,שולן צ'\יקולטה גידה סאן.,TR,פסק זמן 2 גוד,גרמים,36.00,100 גרם,false,0,4.00,11.11,true,1,
 80177609,false,אצבעות שוקולד קינדר Kinder ארבע יחידות,פררו - אלבה,IT,אצבעות קינדר,גרמים,50.00,100 גרם,false,0,4.00,8.00,true,1,
 80768890,false,מסטיק מנטוס וויט ביג מנטה עדינה 105 ג',פרפטי ואן מלה,TR,מסטיק מנטוס,גרמים,105.00,100 גרם,false,1,8.50,8.10,true,1,
