@@ -350,7 +350,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110473112,false,מנגל פח רשת 40*26,Unknown,,מנגל פח רשת 40*26,,0.00,,false,1,39.00,0.00,false,1,10181
 7290110473235,false,רמקול EXTREMe כחול,Unknown,,רמקול EXTREMe כחול,,0.00,,false,1,104.90,0.00,false,1,9769
 7290110473426,false,אוזניות JUST BASS ור,Unknown,,אוזניות JUST ורוד,,0.00,,false,1,54.90,0.00,false,1,9745
-7290110473433,false,אוזניות JUST BASS אפ,Unknown,,אוזניות JUST אפור,,0.00,,false,1,54.90,0.00,false,1,9746
+7290110473433,false,אוזניות JUST BASS אפור,Unknown,,אוזניות JUST אפור,,0.00,,false,1,54.90,0.00,false,1,9746
 7290110473440,false,אוזניות JUST BASS זה,Unknown,,אוזניות JUST זהב,,0.00,,false,1,54.90,0.00,false,1,9747
 7290110473501,false,זרוע טלסקופית לרכב שחור TECH GRIP,Unknown,,ז.טלסקופית לרכב שחור,,0.00,,false,1,54.90,0.00,false,1,9749
 7290110473587,false,זרוע מגנטי לרכבSIMPL,Unknown,,SIMPLY GRIP,,0.00,,false,1,44.90,0.00,false,1,9751
@@ -369,7 +369,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110474492,false,שולחן קמפינג מתקפל,Unknown,CN,שולחן קמפינג מתקפל,,0.00,,false,1,119.00,0.00,false,1,10070
 7290110474508,false,אוהל עמידה,Unknown,,אוהל עמידה,,0.00,,false,1,349.00,0.00,false,1,10092
 7290110474515,false,עששית לד 3 וואט,Unknown,,עששית לד 3 וואט,,0.00,,false,1,29.00,0.00,false,1,10093
-7290110474560,false,אוזניות מיקרופון NEW AGE SOUND,Unknown,,אוזניות מיקרופון NAS,,0.00,,false,1,49.00,0.00,false,1,10168
+7290110474560,false,אוזניות מיקרופון NEW,Unknown,,אוזניות מיקרופון NAS,,0.00,,false,1,49.00,0.00,false,1,10168
 7290110474577,false,אוזניות מיקרופון DOU,Unknown,,אוזניות מיקרופוןDOL,,0.00,,false,1,79.00,0.00,false,1,10169
 7290110474690,false,כבל USB C לחיבור LI,Unknown,,כבל USB C LIGHTNING,,0.00,,false,1,59.90,0.00,false,1,10171
 7290110474706,false,מעמד מגנטי למזגן POW,Unknown,,מעמד מגנטי למזגן P.V,,0.00,,false,1,49.00,0.00,false,1,10172
@@ -422,7 +422,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110476588,false,כבל METAL CHARGE אייפון,Unknown,,כבל CHARGE אייפון,,0.00,,false,1,29.00,0.00,false,1,10869
 7290110476595,false,כבל METAL CHARGE מיק,Unknown,,כבל מיקרו usb,,0.00,,false,1,29.00,0.00,false,1,10870
 7290110476601,false,כבל מטאל טייפ סי,Unknown,,כבל טייפ סי,,0.00,,false,1,29.00,0.00,false,1,10874
-7290110476618,false,כבל METAL CHARGE טיי,Unknown,,כבל M.C סי טו סי,,0.00,,false,1,29.00,0.00,false,1,10871
+7290110476618,false,כבל METAL CHARGE טייפ סי לטייפ סי,Unknown,,כבל M.C סי טו סי,,0.00,,false,1,29.00,0.00,false,1,10871
 7290110476625,false,כבל IN CHARGE אייפון,Unknown,,כבל IN CHARGE אייפון,,0.00,,false,1,29.90,0.00,false,1,11111
 7290110476632,false,כבל IN CHARGE מיקרו USB,Unknown,,כבל IN CHARGE מיקרו,,0.00,,false,1,29.90,0.00,false,1,11112
 7290110476649,false,כבל IN CHARGE טייפ סי,Unknown,,כבל IN CHARGE טיפ סי,,0.00,,false,1,29.90,0.00,false,1,11113
@@ -463,7 +463,7 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290110477615,false,שישה שאקלים,Unknown,,שישה שאקלים,,0.00,,false,1,29.00,0.00,false,1,11239
 7290110477622,false,אקדח עיסוי נטען,Unknown,,אקדח עיסוי נטען,,0.00,,false,1,99.00,0.00,false,1,11260
 7290110477639,false,מתאם AUDIO TYPE C,Unknown,,מתאם AUDIO TYPE C,,0.00,,false,1,59.00,0.00,false,1,11429
-7290110477653,false,אוזניות TWS אלומינ,Unknown,,אוזניות TWS אלומינ,,0.00,,false,1,129.00,0.00,false,1,11301
+7290110477653,false,אוזניות אלחוטיות TWS,Unknown,,אוזניות TWS אלומינ,,0.00,,false,1,129.00,0.00,false,1,11301
 7290110477660,false,עצי ריח מעוצבים,Unknown,,עצי ריח מעוצבים,,0.00,,false,1,5.90,0.00,false,1,11430
 7290110477677,false,כבל 2 מטר,Unknown,,כבל 2 מטר,,0.00,,false,1,29.90,0.00,false,1,11431
 7290110477721,false,מטען אלחוטי 3 ב1,Unknown,,מטען אלחוטי 3 ב1,,0.00,,false,1,99.00,0.00,false,1,11432
@@ -493,8 +493,8 @@ code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_
 7290114720250,false,פוג'יקום מטען סוללות USB אוניברסלי,פוג'יקום,CN,מ.סוללות USBאוניבסלי,,0.00,,false,1,79.90,0.00,false,1,10400
 7290115077131,false,מסכות ילדים צבעוני מעורב 40 יח',מ.פאנג,CN,מארז מסכות ילדים,,0.00,,false,1,18.90,0.00,false,1,10628
 7290115191066,false,נקסט ריץ' ריסס פאקט,פיליפ מוריס,RS,נקסט ריץ פאקטים,,0.00,,false,1,260.00,0.00,false,1,11564
-7290115191073,false,סיגריות נקסט(בודד) ר,פיליפ מוריס,RS,נקסט ריץ ריסס,,0.00,,false,1,26.00,0.00,false,1,11565
-7290115200928,false,חטיף ביסלי מיקס קראנ,פרו מן יו פתרונות אר,IL,ביסלי ק.מיקס 150ג,,0.00,,false,1,12.50,0.00,true,1,11085
+7290115191073,false,סיגריות נקסט ריץ יחידה,פיליפ מוריס,RS,נקסט ריץ ריסס,,0.00,,false,1,26.00,0.00,false,1,11565
+7290115200928,false,ביסלי קראנצ' מיקס 150 גר',פרו מן יו פתרונות אר,IL,ביסלי ק.מיקס 150ג,,0.00,,false,1,12.50,0.00,true,1,11085
 7290115675740,false,קפסולות אייס נוגט למכונות NESPRESSO,שטראוס קפה בי.וי.,IL,קפסולות אייס ק.נוגט,,0.00,,false,1,16.50,0.00,true,1,10892
 7290115675764,false,קפסולות 08 100% אתיופיה למכונות נספרסו,הנסיך- מפעל לייצור ט,IL,קפסולות 08 אתיופיה,,0.00,,false,1,16.50,0.00,true,1,11027
 7291123657858,false,סיגריה DOM-ענבים,Unknown,,סיגריה DOM-ענבים,,0.00,,false,1,89.90,0.00,false,1,11457
