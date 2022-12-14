@@ -1,5 +1,5 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
-80001485,false,גרנדנה קוקוס 38 גרם 25 יח',קריניציה ויטמינה אס,IT,חטיף גרנדה קוקוס,גרמים,38.00,100 גרם,false,0,4.90,12.89,true,1,
+80001485,false,חטיף גרנדה קוקוס 38 גרם,קריניציה ויטמינה אס,IT,חטיף גרנדה קוקוס,גרמים,38.00,100 גרם,false,0,4.90,12.89,true,1,
 80001911,false,וופל גרדנה במילוי קרם אגוזי לוז ובציפוי שוקולד לבן,ליימן מותגים,AT,גרדנה שוקולד לבן,גרמים,38.00,100 גרם,false,1,4.90,12.89,true,1,
 13495113513,false,קליק שוקולד חלב 75 גרם,יוניליוור ישראל מזון בע\,IL,קליק שוקולד,גרמים,75.00,100 גרם,false,0,7.90,10.53,true,1,
 16000281684,false,חטיפי גרנולה קראנצ'י עם פקאן נייצ'ר ואלי 5*42 גרם,ליימן מותגים,US,חטיף נייטשר ואלי,גרמים,210.00,100 גרם,false,0,19.90,9.48,true,1,
