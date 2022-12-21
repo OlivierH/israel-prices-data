@@ -1,0 +1,5 @@
+code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
+557,true,בננה,חקלאי,IL,בננה,קילוגרמים,1.00,"ק""ג",true,,14.90,14.9000,true,1,152048
+7290002750406,false,סופגניה עם ריבה פילסברי 95 גרם,פילסברי,,סופגנייה מטוגנת קפואה עם ריבה,גרמים,95.00,100 גרם,false,1,3.90,4.1053,false,1,152702
+7290003643387,false,"סוכר לבן בצנצנת 1 ק""ג סוגת",האי נאם סי או אל.טי.,IL,"סוכר 1 ק""ג בצנצנת",קילוגרמים,1.00,"ק""ג",false,1,10.90,10.9000,true,1,150472
+7290005271410,false,גליקסמן ביצים רגילות,גליקסמן שיווק ביצים,IL,ביצים L ארוזות 12 יחידות,לא מנהל יחידת מידה,0.00,לא מנהל יחידת מידה,false,1,12.05,0.0000,true,1,152652
