@@ -1,0 +1,5 @@
+code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
+119,true,גפרורים,,,גפרורים,יחידה,0.00,יחידה,false,,4.90,0.0000,true,1,15780
+7290008909877,false,קוקה קולה זירו שישיי,,,קוקה קולה זירו שישיי,ליטרים,9.00,ליטר,false,,47.10,5.2333,true,1,7007
+7290013702043,false,שוופס וואטר ענבים 1.,,,שוופס וואטר ענבים 1.,ליטרים,1.50,ליטר,false,,8.30,5.5333,true,1,11619
+7290114311182,false,תום עיזים צוריאל 15,מילקו תעשיות בעמ,IL,גבינת תום עיזים 28%,גרמים,150.00,100 גרם,false,,27.90,18.6000,true,1,301638
