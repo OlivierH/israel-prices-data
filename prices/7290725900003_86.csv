@@ -1,0 +1,3 @@
+code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
+8888,true,פיקדון זיכוי לקוח,,,פיקדון זיכוי לקוח,יחידה,0.00,יחידה,false,,0.30,0.0000,true,1,32811
+7290000004444,false,שקיות גופיה 20 מקרו,,,שקיות גופיה 20 מקרו,יחידה,0.00,יחידה,false,,0.10,0.0000,true,1,26680
