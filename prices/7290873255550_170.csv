@@ -1,7 +1,7 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 602,false,קפה טורקי 85גרם,,,בצל יבש,Unknown,0.00,"ק""ג",true,0,3.90,3.90,true,1,
 619,false,פלפל אדום,,,פלפל אדום,Unknown,0.00,"ק""ג",true,0,9.90,9.90,true,1,
-678,false,ברוקולי,,,ברוקולי,Unknown,0.00,Unknown,false,1,9.80,9.80,true,1,
+678,false,נתח קצבים טרי,,,ברוקולי,Unknown,0.00,Unknown,false,1,9.80,9.80,true,1,
 5942,false,"תפו""ע קריספי",,,"תפו""ע קריספי",Unknown,0.00,"ק""ג",true,0,10.90,10.90,true,1,
 3192854,false,קשיו טבעי במשקל,,,קשיו טבעי במשקל,Unknown,0.00,"ק""ג",true,0,80.00,80.00,true,1,
 4412319,false,בטטה,,,בטטה,Unknown,0.00,"ק""ג",true,0,4.80,4.80,true,1,
