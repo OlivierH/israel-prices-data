@@ -43,9 +43,7 @@ store_id,verification_num,store_type,store_name,address,city,zip_code
 89,4,1,קינג גורג,קינג גורג 8,תל אביב,6357808
 91,9,1,המסגר,המסגר 37,תל אביב,6721426
 156,5,1,עדן גן העיר,אבן גבירול 71,תל אביב,6416202
-170,5,2,ליקוט עדן ראשון לציו,http://www.edenteva.co.il/,ראשון לציון,
 172,3,2,ליקוט עדן גן העיר,http://www.edenteva.co.il/,תל אביב,
-175,0,2,ליקוט עדן נתניה,http://www.edenteva.co.il/,נתניה,
 502,0,2,ליקוט נתניה,https://www.tivtaam.co.il/,נתניה,
 503,9,2,ליקוט טיב טעם אשדוד,https://www.tivtaam.co.il/,אשדוד,
 512,7,2,ליקוט טיב טעם קריות,https://www.tivtaam.co.il/,חיפה,
