@@ -1,7 +1,7 @@
 code,internal_code,name,manufacturer_name,manufacture_country,manufacturer_item_description,unit_qty,quantity,unit_of_measure,weighted,qty_in_package,price,unit_of_measure_price,allow_discount,status,item_id
 46024824,false,נקסט פייןPP חפיסה,פיליפ מוריס,,נקסט יח',יחידה,1.00,יחידה,false,0,29.50,29.50,false,1,
 72994214,false,ל.מ פורוורד חפיסה,פיליפ מוריס,,ל.מ פורוורד חפ.,יחידה,1.00,יחידה,false,0,33.50,33.50,false,1,
-4033100014536,false,סיגריות אל די סלים פ,Unknown,TR,אל די סלימס חב.,יחידה,1.00,יחידה,false,0,249.90,249.90,false,1,
+4033100014536,false,אל.די סלימס פאקט 10,Unknown,TR,אל די סלימס חב.,יחידה,1.00,יחידה,false,0,249.90,249.90,false,1,
 5053827173353,false,קלוגס קוקו פופס 510 גרם,קלוג'ס,US,קוקו פופס קלוגס,גרמים,510.00,100 גרם,false,1,14.90,2.92,true,1,
 5203937005949,false,חטיף שומשום ודבש שלישייה,קרטאמל,GR,חטיף שומשום ודבש,יחידה,1.00,יחידה,false,1,11.90,11.90,true,1,
 5906485301012,false,"משקה אנרגיה XL פחית 250 מ""ל","טמפו משקאות בע""מ",IL,משקה אנרגיה XL,מיליליטרים,250.00,"100 מ""ל",false,0,3.80,1.52,true,1,
